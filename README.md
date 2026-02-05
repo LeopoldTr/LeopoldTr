@@ -21,8 +21,7 @@ Software engineer based in Paris, currently at **Iziwork**. Building things with
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Nutriva** | SaaS for nutritionists with AI-powered recipe generation | [nutriva-jet.vercel.app](https://nutriva-jet.vercel.app) |
+| **Nutriva** | SaaS for nutritionists with AI-powered recipe generation | |
 | **MovieGate** | Movie discovery with AI semantic search | [moviegate.app](https://moviegate.app) |
-| **Secours** | B2B first aid training platform | [secours.vercel.app](https://secours.vercel.app) |
+| **Secours** | B2B first aid training platform | [france-secourisme.fr](https://france-secourisme.fr) |
 | **DogFinder** | Find the best croquettes for your dog | [dogfinder-five.vercel.app](https://dogfinder-five.vercel.app) |
-| **Saveurs** | AI recipe and nutrition platform | [saveurs-web.vercel.app](https://saveurs-web.vercel.app) |
