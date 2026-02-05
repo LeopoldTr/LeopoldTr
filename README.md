@@ -13,7 +13,7 @@ Software engineer based in Paris, currently at **Iziwork**. Building things with
 
 **Backend:** Node.js, NestJS, FastAPI
 
-**AI/ML:** PyTorch, Scikit-learn, LLMs (Claude, GPT), Vector DBs
+**AI/ML:** PyTorch, LLMs (Claude, GPT), RAG, OCR, Vector DBs
 
 **Infra:** PostgreSQL, MongoDB, Kafka, Docker, AWS, Vercel
 
